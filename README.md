@@ -1,4 +1,4 @@
-![image](./lawg_final.png)
+![image](./lawg_banner.png)
 # lawg
 Your Logs, one place.
 
