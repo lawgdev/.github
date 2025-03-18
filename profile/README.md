@@ -1,1 +1,1 @@
-![image](./lawg_banner.png)
+![image](../lawg_banner.png)
